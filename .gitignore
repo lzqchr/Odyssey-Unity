@@ -1,0 +1,17 @@
+
+Library
+Logs
+Packages
+*ProjectSettings
+*UserSettings
+*obj
+
+*.meta
+*.asset
+*.sln
+*.csproj
+
+*.cd
+*.idea
+*.vs
+*.vsconfig
